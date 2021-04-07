@@ -1,0 +1,22 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/template/blog-home)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+#content {
+  overflow: hidden;
+  height: 3.6em;
+  line-height: 1.8em;
+  width: 100%;
+  
+}
+
+#content-post {
+  white-space: pre-wrap;
+}
+
+
+
